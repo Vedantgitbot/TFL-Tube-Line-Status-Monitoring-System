@@ -1,4 +1,3 @@
-
 import requests
 
 url = "https://api.tfl.gov.uk/Line/Mode/tube/Status"
